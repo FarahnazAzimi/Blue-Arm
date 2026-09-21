@@ -1,4 +1,5 @@
 # Blue-Arm
+![Blue Arm Robot](Documentation/Robot_image/blue_arm.jpg)
 3-DOF RRR robotic arm with MATLAB kinematics, Python control, and ESP32 Arduino firmware.
 # Blue Arm
 ## Overview
